@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
   <p>A Modern Blog Platform Built with React, GraphQL, and Hygraph CMS</p>
 
-<h3><a href="">View Blogify App</a></h3>
+<h3><a href="https://blog-graph-ql-cms.vercel.app/">View Blogify App</a></h3>
 
 ## ✨ Features
 
